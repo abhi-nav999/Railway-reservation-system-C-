@@ -1,0 +1,9 @@
+PRECAUTIONS RUNNING PROJECT:
+
+1.ADD TRAIN: add train last station point first i.e in decreasing order of station_no from destination to source.
+  Due to conventions used in the program.
+
+2.INSERTION IS DONE AT THE FRONT OF LinkedList.Because of LOW TIME COMPLEXITY-O(1).
+
+3.Pointer rear and (*head already exists) is made to the linked list therefore IT CAN BE USED STACK AND QUEUE.(and linked list as well).
+
